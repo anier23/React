@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\reactproject",
+    "\\reactproject\\public",
+    "\\reactproject\\src"
   ],
   "PreviewInSolutionExplorer": false
 }

@@ -99,7 +99,7 @@ function AddMultipleEntries() {
                                     {val.map((data, i) => {
                                         return (
                                             <div>
-                                                <input value={data} onChange={e => handleChange(e, i)} placeholder="Ingrese una direcci&oacute;n" size="44" />
+                                                <input id="direc" value={data} onChange={e => handleChange(e, i)} placeholder="Ingrese una direcci&oacute;n" size="44" />
                                                 <button id="btnx" onClick={() => handleDelete(i)}>x</button>
                                             </div>
                                         )

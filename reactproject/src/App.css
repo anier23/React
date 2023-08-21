@@ -121,8 +121,12 @@ h3 {
     width: 40%;
 }
 
+#direc {
+    width: 90%;
+}
+
 #datec {
-    width: 53%;
+    width: 50%;
     border-radius: 5px;
 }
 
